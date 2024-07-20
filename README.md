@@ -70,5 +70,5 @@ Based on the insights generated from the Abt company's data analysis, here are 7
 ## Conclusion
 This comprehensive data analysis of Olist's sales and customer data has uncovered valuable insights that can help the company optimize its operations, improve profitability, and enhance the customer experience. By implementing the data-driven recommendations, Olist can position itself for continued growth and success in the Brazilian e-commerce market.
 
-## To Download Olist E-commerce Power BI Report
-[Abt Sales Analysis Report]([https://drive.google.com/file/d/19LA9FN-tzAmjmOs3u_zDRRXwUqgiwj35/view?usp=drive_link])
+## To Download Abt Sales Power BI Report
+[Abt Sales Analysis Report](https://drive.google.com/file/d/19LA9FN-tzAmjmOs3u_zDRRXwUqgiwj35/view?usp=drive_link)
