@@ -1,4 +1,4 @@
-# 🆎t-Sales-Analysis-and-Report
+# 🆎T-Sales-Analysis-and-Report
 Abt Sales is a retail company specializing in the sale of consumer electronics and home appliances. Established in 1936, Abt Sales has grown from a small family-owned business to one of the leading retailers in its sector, known for its exceptional customer service and a wide range of products. 
 
 ## Problem Statement
@@ -34,19 +34,19 @@ The analysis was conducted using a combination of Excel and Power BI, leveraging
 - **Insight Generation**: Synthesizing analysis results into actionable business insights.
 - **Recommendation Development**: Translating insights into data-driven recommendations to improve business performance.
 
-![Dashboard](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-0.jpg)
+![Sales Order Analysis](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-0.jpg)
 
-![Revenue and Pricing Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-1.jpg)
+![Product Quantity Analysis](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-1.jpg)
 
-![Logistics Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-2.jpg)
+![Channel Performance Analysis](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-2.jpg)
 
-![Location Demography Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-3.jpg)
+![Sales Order Report](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-3.jpg)
 
-![Purchase Order Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-4.jpg)
+![Product Quantity Report](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-4.jpg)
 
-![Customer Reveiew Analysis](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-5.jpg)
+![Channel Performance Report](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-5.jpg)
 
-![Executive Summary](https://github.com/segunumoru1/Olist-E-commerce-Analysis-And-Report/blob/main/Olist%20Ecommerce%20Analysis_Report-images-6.jpg)
+![Business Recommendations](https://github.com/segunumoru1/Abt-Sales-Analysis-and-Report/blob/main/Abt%20Sales%20Analysis%20Report-images-6.jpg)
 
 
 ## Key Insights and Recommendations
