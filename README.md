@@ -67,8 +67,21 @@ Based on the insights generated from the Abt company's data analysis, here are 7
 
 7. Explore the customer preference for products in the 5-7 quantity range, as they generated the highest revenue through the Wholesale and Distributor channels. Develop strategies to cross-sell and promote these product quantities to effectively maximize revenue.
 
-## Conclusion
-This comprehensive data analysis of Olist's sales and customer data has uncovered valuable insights that can help the company optimize its operations, improve profitability, and enhance the customer experience. By implementing the data-driven recommendations, Olist can position itself for continued growth and success in the Brazilian e-commerce market.
+## Executive Summary
+
+1. **Analyze March Performance**: Investigate the reasons for lower revenue and order costs in March compared to August to identify improvement strategies.
+
+2. **Boost May Orders**: Understand the factors leading to fewer orders in May and implement strategies to encourage customer purchasing during slower months.
+
+3. **Maximize Wholesale Channel**: Continue to focus on and optimize the Wholesale channel, which contributes significantly to revenue.
+
+4. **Leverage Successful Warehouses**: Monitor and replicate the success of Warehouse AXW291 while addressing the underperformance of Warehouse FLR025.
+
+5. **Enhance Product Availability**: Ensure that the Wholesale and Distributor channels are well-stocked to meet customer demand and preferences.
+
+6. **Increase Quantity Sold**: Investigate factors that drive the correlation between product quantity sold and revenue, aiming to boost sales volume.
+
+7. **Focus on Cross-Selling**: Promote products that align with customer preferences for quantities between 5 and 7 to maximize revenue through effective cross-selling strategies.
 
 ## To Download Abt Sales Power BI Report
 [Abt Sales Analysis Report](https://drive.google.com/file/d/19LA9FN-tzAmjmOs3u_zDRRXwUqgiwj35/view?usp=drive_link)
